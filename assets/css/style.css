@@ -14,7 +14,7 @@ body {
 }
 
 a {
-  color: #ffb727;
+  color: #ff2759;
 }
 
 a:hover {
@@ -339,7 +339,7 @@ h1, h2, h3, h4, h5, h6 {
 #hero h2 {
   color: #eee;
   margin-bottom: 50px;
-  font-size: 13px;
+  font-size: 15px;
   font-weight: 500;
   letter-spacing: 1px;
   text-transform: uppercase;
@@ -537,7 +537,7 @@ section {
 .about .content ul i {
   font-size: 20px;
   padding-right: 2px;
-  color: #ffb727;
+  color: #11d6d0;
 }
 
 .about .content .count-box {
@@ -621,7 +621,7 @@ section {
   width: 1px;
   height: 10px;
   transition: .9s;
-  background-color: #ffb727;
+  background-color: #05656e;
 }
 
 /*--------------------------------------------------------------
@@ -647,7 +647,7 @@ section {
   font-size: 16px;
   font-weight: 700;
   text-transform: uppercase;
-  color: #ffb727;
+  color: #ff5d27;
   margin-bottom: 10px;
 }
 
